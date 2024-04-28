@@ -1,0 +1,10 @@
+/* Write your code here. */
+.app-container {
+  display: flex;
+  background-color: #f1f5f8;
+}
+
+.faq-bg-container {
+  display: flex;
+  background-color: #ffffff;
+}
